@@ -28,8 +28,8 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## 🛠**기술 스텍**
 
-![skillstack](readme/skillstack.png)
-
+![skillstack](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/skillstack.png)
+![skill](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/skill.png)
 
 ## 📆**개발 기간**
 
@@ -46,7 +46,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## 🔄**시스템 설계**
 
-![JPA-React 프로젝트 흐름도](readme/projectflow.png)
+![JPA-React 프로젝트 흐름도](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/projectflow.png)
 
 **Spring Boot 설정**: Spring Data JPA를 사용하여 데이터베이스와 상호 작용.
 
@@ -62,58 +62,55 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## ❤**서비스 기능 소개**
 
-#### 로그인 / JWT
-##### 로그인
-![login](readme/loginout.gif)
+#### [ 로그인 / JWT ]
+##### < 로그인 >
+![login](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/loginout.gif)
 
-##### OAuth2로그인
-![OAuth2login](readme/oauth2loginout.gif)
-
-##### JWT
-![JWT](readme/jwt.gif)
+##### < JWT >
+![JWT](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/jwt.gif)
 ---
 
-#### 마이페이지
-![mypage](readme/mypage.gif)
+#### [ 마이페이지 ]
+![mypage](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/mypage.gif)
 ---
 
-#### 관리자페이지
-##### 신청리스트
-![req](readme/adminreqlist.gif)
+#### [ 관리자페이지 ]
+##### < 신청리스트 >
+![req](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/adminreqlist.gif)
 
-##### 취소리스트
-![cancel](readme/admincancellist.gif)
+##### < 취소리스트 >
+![cancel](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/admincancellist.gif)
 
-##### 차트
-![chart](readme/chart.gif)
+##### < 차트 >
+![chart](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/chart.gif)
 
-##### 히스토리
-![history](readme/history.gif)
+##### < 히스토리 >
+![history](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/history.gif)
 ---
 
-#### 메뉴
-##### 디테일
-![menudetail](readme/menudetail.gif)
+##### [ 메뉴디테일 ]
+![menudetail](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/menudetail.gif)
 ---
 
-#### 예약,대기열
-![reservation2](readme/reservation2.gif)
-![reservation](readme/reservation.gif)
-![reservation](readme/reservation3.gif)
+#### [ 예약,대기열 ]
+![reservation2](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/reservation2.gif)
+![reservation](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/reservation.gif)
+![reservation3](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/reservation3.gif)
 ---
 
-#### 파트너
-![캘린더](readme/캘린더.gif)
+#### [ 파트너 ]
+![partnerupdate](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/partnerupdate.gif)
+![partnerlist](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/partnerlist.gif)
 ---
 
-#### 룰렛
-![게시판](readme/게시판.gif)
+#### [ 룰렛 ]
+![roulette](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/roulette.gif)
 ---
 
-#### 구글맵
-![chatbot](readme/chatbot.gif)
+#### [ 구글맵 ]
+![googlemap](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/googlemap.gif)
 ---
 
-#### 타임라인
-![chatbot](readme/chatbot.gif)
+#### [ 타임라인 ]
+![timeline](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/timeline.gif)
 ---
