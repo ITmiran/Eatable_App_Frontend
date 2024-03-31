@@ -1,4 +1,4 @@
-![homepage](readme/homepage.png)
+![homepage](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/homepage.png)
 
 ## **Eatable 소개**
 
