@@ -28,7 +28,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## 🛠**기술 스텍**
 
-![skillstack](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/skillstack.png)
+![skillstack1](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/skillstack1.png)
 ![skill](https://github.com/ITmiran/Eatable_App_Frontend/blob/master/skill.png)
 
 ## 📆**개발 기간**
